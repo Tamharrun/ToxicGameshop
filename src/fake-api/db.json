@@ -1,0 +1,366 @@
+{
+  "users": [
+    {
+      "username": "tam",
+      "fullName": "Hanif Nur Rahmat",
+      "email": "hanifnur2509@gmail.com",
+      "password": "asdasd",
+      "id": 1
+    },
+    {
+      "username": "LittleGiant",
+      "fullName": "Hinata Shoyo",
+      "email": "shoyo1005@karasuno.com",
+      "password": "minustempo",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "tamharrun_",
+      "fullName": "Hanif Nur Rahmat",
+      "email": "hanifnur2509@gmail.com",
+      "password": "asdasd",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "tamharrun_",
+      "fullName": "Hanif Nur Rahmat",
+      "email": "hanifnur2509123",
+      "password": "asdasd",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "alvestr3x",
+      "fullName": "Hanif Nur Rahmat",
+      "email": "hanifnur2509@gmail.com",
+      "password": "asdasd",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "username": "tamharrun_",
+      "fullName": "asdf",
+      "email": "hanifnur2509@gmail.com",
+      "password": "adfasdf",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "miccopaskud",
+      "fullName": "dd micco",
+      "email": "miccomillomino@gmail.com",
+      "password": "jalanpasirmulya",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "username": "kageyamad",
+      "fullName": "Kageyama Tobio",
+      "email": "kegayamaddog@karasuno.com",
+      "password": "quickpass",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "username": "kageyamad",
+      "fullName": "Kageyama Tobio",
+      "email": "kegayamaddog@karasuno.com",
+      "password": "quickpass",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "username": "tsukisuki",
+      "fullName": "tsukisima kei",
+      "email": "tsukidaro@karasuno.com",
+      "password": "asdasdasd",
+      "role": "user",
+      "id": 10
+    },
+    {
+      "username": "MerpatiPutih",
+      "fullName": "Ushijima Wakatoshi",
+      "email": "ichibannoace@shiratorizawa.com",
+      "password": "asdasdasd",
+      "role": "user",
+      "id": 11
+    },
+    {
+      "username": "sakusaikyo",
+      "fullName": "Sakusa Kiyomi",
+      "email": "sakusakiyomi@itachiyama.com",
+      "password": "tokyo",
+      "role": "user",
+      "id": 12
+    },
+    {
+      "username": "hinokami",
+      "fullName": "Kamado Tanjiro",
+      "email": "kamadotanjiro@gmail.com",
+      "password": "nezuko",
+      "role": "user",
+      "id": 13
+    },
+    {
+      "username": "RakaIblis",
+      "fullName": "Muzan",
+      "email": "uppermoon@gmail.com",
+      "password": "hinokami",
+      "role": "user",
+      "id": 14
+    },
+    {
+      "username": "16313022",
+      "fullName": "a",
+      "email": "",
+      "role": "user",
+      "id": 15
+    },
+    {
+      "username": "StevieG",
+      "fullName": "Steven Gerrard",
+      "email": "stevieg8@liverpool.com",
+      "password": "anfield",
+      "role": "user",
+      "id": 16
+    },
+    {
+      "username": "HailHitler",
+      "fullName": "Adolf Hitler",
+      "email": "nazihitler@germany.com",
+      "password": "bantaiyahudi",
+      "role": "user",
+      "id": 17
+    },
+    {
+      "username": "HailHimler",
+      "fullName": "Rudolf Himler",
+      "email": "nazihimler@germany.com",
+      "password": "bantaisemua",
+      "role": "user",
+      "id": 18
+    },
+    {
+      "username": "deku",
+      "fullName": "Midoriya Izuku",
+      "email": "one4all.deku@ua.ac.id",
+      "password": "orumaito",
+      "role": "user",
+      "id": 19
+    },
+    {
+      "username": "TAA",
+      "fullName": "Trent Alexander Arnold",
+      "email": "taa.fullback@liverpool.com",
+      "password": "anfieldroad",
+      "role": "user",
+      "id": 20
+    },
+    {
+      "username": "PilarSuara",
+      "fullName": "Tengen Uzui",
+      "email": "uzuigans@kimetsu.com",
+      "password": "pilogamienak",
+      "role": "user",
+      "id": 21
+    },
+    {
+      "username": "laptop",
+      "fullName": "mouse",
+      "email": "keyboard@gmail.com",
+      "password": "kamera",
+      "role": "user",
+      "id": 22
+    },
+    {
+      "username": "laptop",
+      "fullName": "mouse",
+      "email": "keyboard@gmail.com",
+      "password": "kamera",
+      "role": "user",
+      "id": 23
+    },
+    {
+      "username": "oesman77",
+      "fullName": "entis sutisna",
+      "email": "sule@ovj.com",
+      "password": "disanagunung",
+      "role": "user",
+      "id": 24
+    },
+    {
+      "username": "sparslue",
+      "fullName": "kaido",
+      "email": "salwa.nurrahmat28@gmail.com",
+      "password": "sasimi",
+      "role": "user",
+      "id": 25
+    },
+    {
+      "username": "CR7",
+      "fullName": "Cristiano Ronaldo",
+      "email": "cr7manurm@football.com",
+      "password": "ferguson",
+      "role": "user",
+      "id": 26
+    },
+    {
+      "username": "katchan",
+      "fullName": "bakugo",
+      "email": "bakugo@yuei.com",
+      "password": "bakadeku",
+      "role": "user",
+      "id": 27
+    }
+  ],
+  "transactions": [],
+  "product": [
+    {
+      "id": 1,
+      "productName": "NBA 2K22",
+      "price": 399000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/07/PS4-NBA-2K22-R3English-250x250.png.webp",
+      "description": "Game simulasi basket terbaik yang dapat anda mainkan. Jadilah manajer hebat dalam career Mode",
+      "category": "playstation"
+    },
+    {
+      "id": 2,
+      "productName": "RDR 2",
+      "price": 345000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2020/06/PS4-Red-dead--250x250.png.webp",
+      "description": "Game petualangan di era cowboy amerika, berperan melawan mafia dan menjalankan misi balas dendam",
+      "category": "playstation"
+    },
+    {
+      "id": 3,
+      "productName": "Zelda",
+      "price": 636000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2018/12/Switch-The-Legend-of-Zelda-Breath-of-the-Wild-USEnglish-250x250.png.webp",
+      "description": "Berpetualang menjadi zelda untuk mencari ingatannya yang hilang sambil menaklukan monster-monster dan bertahan hidup",
+      "category": "Nintendo"
+    },
+    {
+      "id": 4,
+      "productName": "Halo Infinite",
+      "price": 724000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/10/Halo-Infinite-Standard-Edition-250x250.jpg.webp",
+      "description": "The legendary Halo series returns with a groundbreaking multiplayer experience and the most expansive Master Chief campaign yet.",
+      "category": "Xbox"
+    },
+    {
+      "id": 5,
+      "productName": "Persona 5",
+      "price": 455000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/10/PS4-Persona-5-The-Royal-R3English-001-250x250.png.webp",
+      "description": "Prepare for an all-new RPG experience in Persona 5 Royal based in the universe of the award-winning series, Persona! Don the mask of Joker and join the Phantom Thieves of Hearts.",
+      "category": "Playstation"
+    },
+    {
+      "id": 6,
+      "productName": "Demon Slayer",
+      "price": 649000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/06/PS4-Demon-Slayer-Kimetsu-no-Yaiba-The-Hinokami-Chronicles-250x250.png.webp",
+      "description": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself.",
+      "category": "Playstation"
+    },
+    {
+      "id": 7,
+      "productName": "Ghost of Tsushima",
+      "price": 729000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/07/PS4-Ghost-of-Tsushima-DIRECTORS-CUT-R3English-250x250.png.webp",
+      "description": "Experience the expanded Ghost of Tsushima DIRECTOR’S CUT, featuring all additional content released to date. Forge a new path and wage an unconventional war for the freedom of Tsushima and explore a new story on Iki Island.",
+      "category": "Playstation"
+    },
+    {
+      "id": 8,
+      "productName": "Death's Gambit Afterlife",
+      "price": 467000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/09/Switch-Deaths-Gambit-Afterlife-250x250.png.webp",
+      "description": "The Definitive Version of Death’s Gambit: Afterlife includes the game cartridge along with an assortment of stickers and a two-sided poster that depicts the in-game map and a character compendium that fans may find helpful on their journey through Siradon.",
+      "category": "Nintendo"
+    },
+    {
+      "id": 9,
+      "productName": "Summer in Mara",
+      "price": 395000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/09/Switch-Summer-in-Mara-R2English-250x250.png.webp",
+      "description": "Take care of your own island and explore the ocean in this farming adventure! Discover the story of Koa, with farming, crafting and exploring mechanics.",
+      "category": "Nintendo"
+    },
+    {
+      "id": 10,
+      "productName": "RPGolf Legends",
+      "price": 348000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2022/01/Switch-RPGolf-Legends-AsiaEnglish-250x250.png.webp",
+      "description": "Save the world with a nice shot! Unique action golf RPGGolf club spirits and girls set out on a journey to break the seal on the golf course and regain their beloved golf! Save the world with nice shots! Individual action golf RPG",
+      "category": "Nintendo"
+    },
+    {
+      "id": 11,
+      "productName": "GTA Trilogy",
+      "price": 749000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/11/Switch-Grand-Theft-Auto-The-Trilogy-%E2%80%93-The-Definitive-Edition-English-250x250.png.webp",
+      "description": "Three iconic cities, three epic stories. Play the genre-defining classics of the original Grand Theft Auto Trilogy: Grand Theft Auto III, Grand Theft Auto: Vice City and Grand Theft Auto: San Andreas updated for a new generation, now with across-the-board enhancements including brilliant new lighting and environmental upgrades, high-resolution textures, increased draw distances, Grand Theft Auto V-style controls and targeting, and much more, bringing these beloved worlds to life with all new levels of detail.",
+      "category": "Nintendo"
+    },
+    {
+      "id": 12,
+      "productName": "FIFA 22",
+      "price": 799000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/09/XBOX-SERIES-X-FIFA-22-AsiaEnglish-250x250.png.webp",
+      "description": "Powered by football, EA SPORTS FIFA 22 on Xbox series x|s moves the game forward with ground-breaking next-gen Hyper motion gameplay technology that elevates every moment on the pitch.",
+      "category": "Xbox"
+    },
+    {
+      "id": 13,
+      "productName": "Wonderlands",
+      "price": 100000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/12/XBOX-SERIES-X-Tiny-Tinas-Wonderlands-Next-Level-Edition-250x250.png.webp",
+      "description": "Embark on an epic adventure full of whimsy, wonder, and high-powered weaponry! Bullets, magic, and broadswords collide across this chaotic fantasy world brought to life by the unpredictable Tiny Tina.",
+      "category": "Xbox"
+    },
+    {
+      "id": 14,
+      "productName": "AC Valhala",
+      "price": 635000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/11/XBOX-SERIES-X-XBOX-ONE-Assassins-Creed-Valhalla-Ultimate-Edition-R2English-250x250.png.webp",
+      "description": "In Assassin’s Creed Valhalla, you are Eivor, a fierce Viking warrior raised on tales of battle and glory.",
+      "category": "Xbox"
+    },
+    {
+      "id": 15,
+      "productName": "Darksiders 2",
+      "price": 190000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2020/10/XBOX-ONE-Darksiders-2-Deathinitive-Edition-R2English-250x250.png.webp",
+      "description": "Play Death: Become the most feared of the legendary Four Horsemen, able to destroy entire worlds and battle forces beyond Heaven and Hell Heaven/Hell: Explore startling gameworld environments reminiscent of heaven and hell Player Choice & Customization: Customize your experience with varied armor sets, weapons, and skill trees allowing players to create their own Death",
+      "category": "Xbox"
+    },
+    {
+      "id": 16,
+      "productName": "Dying Light 2",
+      "price": 709000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/12/PS4-Dying-Light-2-Stay-Human-R3English-250x250.png.webp",
+      "description": "Over twenty years ago in Harran, we fought the virus—and lost. Now, we’re losing again. The City, one of the last large human settlements, is torn by conflict.",
+      "category": "Playstation"
+    },
+    {
+      "id": 17,
+      "productName": "Crash Bandicot",
+      "price": 309000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/12/PS4-Crash-Bandicoot-4-Its-About-Time-R3English-250x250.png.webp",
+      "description": "Bandicoots get ready fur it,Crashis moving 4-ward into 2020 with a brand-new game—Crash Bandicoot 4: It’s About Time.",
+      "category": "Playstation"
+    },
+    {
+      "id": 18,
+      "productName": "Call of Duty: Vanguard",
+      "price": 589000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/09/PS4-Call-of-Duty-Vanguard-R3English-250x250.png.webp",
+      "description": "Rise on every front: Dogfight over the Pacific, airdrop over France, defend Stalingrad with a sniper’s precision and blast through advancing forces in North Africa.",
+      "category": "Playstation"
+    }
+  ],
+  "cart": []
+}
