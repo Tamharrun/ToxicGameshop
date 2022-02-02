@@ -213,6 +213,14 @@
       "password": "bakadeku",
       "role": "user",
       "id": 27
+    },
+    {
+      "username": "suju",
+      "fullName": "bakugobs",
+      "email": "go@yuei.com",
+      "password": "bakadeku",
+      "role": "admin",
+      "id": 28
     }
   ],
   "transactions": [],
@@ -223,7 +231,7 @@
       "price": 399000,
       "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/07/PS4-NBA-2K22-R3English-250x250.png.webp",
       "description": "Game simulasi basket terbaik yang dapat anda mainkan. Jadilah manajer hebat dalam career Mode",
-      "category": "playstation"
+      "category": "Playstation"
     },
     {
       "id": 2,
@@ -231,7 +239,7 @@
       "price": 345000,
       "productImage": "https://www.psegameshop.com/wp-content/uploads/2020/06/PS4-Red-dead--250x250.png.webp",
       "description": "Game petualangan di era cowboy amerika, berperan melawan mafia dan menjalankan misi balas dendam",
-      "category": "playstation"
+      "category": "Playstation"
     },
     {
       "id": 3,
@@ -354,12 +362,36 @@
       "category": "Playstation"
     },
     {
-      "id": 18,
-      "productName": "Call of Duty: Vanguard",
-      "price": 589000,
-      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/09/PS4-Call-of-Duty-Vanguard-R3English-250x250.png.webp",
-      "description": "Rise on every front: Dogfight over the Pacific, airdrop over France, defend Stalingrad with a sniper’s precision and blast through advancing forces in North Africa.",
-      "category": "Playstation"
+      "productName": "Nioh 2",
+      "price": 579000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2020/06/nioh21-250x250.png.webp",
+      "description": "Survive a brutal blend of Japanese myth, legend, and history. Master the lethal arts of the samurai as a mysterious half-human, half-supernatural Yokai warrior, in this challenging action RPG sequel. Explore violent Sengoku-era Japan and the deadly Dark Realm, both plagued with grotesque, merciless demons. Unsheathe your deadly weapons and cut down all enemies in your path using a revamped combat system and the ability to transform into a full Yokai to unleash devastating paranormal powers.",
+      "category": "Playstation",
+      "id": 19
+    },
+    {
+      "productName": "Demon Gaze EXTRA",
+      "price": 704000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/09/Switch-Demon-Gaze-EXTRA-250x250.png.webp",
+      "description": "That popular dungeon RPG “First Demon Gaze” is back! Can you master the runaway Demon? The first “Demon Gaze” of the popular dungeon RPG that has gained popularity all over the world since it was released on PlayStation Vita in January 2013.",
+      "category": "Nintendo",
+      "id": 20
+    },
+    {
+      "productName": "Crayola Scoot",
+      "price": 195000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/10/XBOX-ONE-Crayola-Scoot-250x250.png.webp",
+      "description": "Get ready to trigger traps with a tailwhip, spray on a speed boost and out-combo competition – right to the last second. To be champion you’ll need to beat the Scoot Legends in a rainbow of exciting events like Splatter Tag, Trick Run and a new twist on the classic game of S.C.O.O.T.",
+      "category": "Xbox",
+      "id": 21
+    },
+    {
+      "productName": "The Last of Us Part 2 collector edition",
+      "price": 1499000,
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2020/07/Last-Of-US-collector-250x250.png.webp",
+      "description": "PS4 Game: The Last of Us Part II SteelBook 48-Page Art Book Ellie Statue Ellie’s bracelet Five stickers 6 Pins Lithograph Art Print and Thank You Letter PS4 Dynamic Theme Set of 6 PSN Avatars Digital Art Book Digital Soundtra",
+      "category": "Playstation",
+      "id": 22
     }
   ],
   "cart": []

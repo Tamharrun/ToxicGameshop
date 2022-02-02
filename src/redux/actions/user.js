@@ -1,5 +1,9 @@
 import Axios from "axios";
 import { API_URL } from '../../constans/API'
+// import {Route, Routes} from 'react-router-dom';
+// import Home from '../pages/Home';
+
+
 
 export const registerUser = ({ username, fullName, email, password }) => {
     return(dispatch) => {        
@@ -66,6 +70,9 @@ export const logoutUser = () => {
     localStorage.removeItem("userDataToxicgameshop");
     return{
         type: "USER_LOGOUT"
+        // <Routes>
+        //         <Route path="/" element={<Home />} />
+        //     </Routes>
     }
 }
 
