@@ -36,7 +36,7 @@ class MyNavbar extends React.Component {
                                 <>
                             <Navbar.Text className="ms-4">Hello {this.props.userGlobal.username}</Navbar.Text>
                             <NavDropdown title="Profile" id="basic-nav-dropdown">
-                                <NavDropdown.Item as={Link} to={"/cart"}>Cart</NavDropdown.Item>
+                                <NavDropdown.Item as={Link} to={"/cart"}>Cart ({this.props.cartGlobal.cartList.length})</NavDropdown.Item>
                                 <NavDropdown.Item as={Link} to={"/history"}>History</NavDropdown.Item>
                                 {
                                     this.props.userGlobal.role === "admin" ?
@@ -62,7 +62,8 @@ class MyNavbar extends React.Component {
 
 const mapStateToProps = (state) => {
     return {
-        userGlobal: state.user
+        userGlobal: state.user,
+        cartGlobal: state.cart,
     }    
 }
 

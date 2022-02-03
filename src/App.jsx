@@ -14,6 +14,7 @@ import MyNavbar from './components/MyNavbar'
 
 import { connect } from 'react-redux';
 import { userKeepLogin, checkStorage } from './redux/actions/user';
+import { getCardData } from './redux/actions/cart'
 
 
 class App extends React.Component {
@@ -24,6 +25,7 @@ class App extends React.Component {
     if (userLocalStorage) {
       const userData = JSON.parse(userLocalStorage);
       this.props.userKeepLogin(userData);
+      this.props.getCardData(userData.id);
     } else {
       this.props.checkStorage();
     }
@@ -64,6 +66,7 @@ const mapStateToProps = (state) => {
 const mapDispatchToProps = {
   userKeepLogin,
   checkStorage,
+  getCardData,
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);

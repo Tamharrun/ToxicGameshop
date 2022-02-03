@@ -16,7 +16,7 @@ class Admin extends React.Component {
         addDescription: "",
         addCategory: "",
 
-        editID: 0,
+        editId: 0,
 
         editProductName: "",
         editPrice: 0,
@@ -37,7 +37,7 @@ class Admin extends React.Component {
 
     editToggle = (editData) => {
         this.setState({
-            editID: editData.id,
+            editId: editData.id,
             editProductName: editData.productName,
             editPrice: editData.price,
             editProductImage: editData.productImage,
@@ -47,11 +47,11 @@ class Admin extends React.Component {
     }
 
     cancelEdit = () => {
-        this.setState({ editID: 0 })
+        this.setState({ editId: 0 })
     }
 
     saveBtnHandler = () => {
-        Axios.patch(`${API_URL}/product/${this.state.editID}`, {
+        Axios.patch(`${API_URL}/product/${this.state.editId}`, {
             productName: this.state.editProductName,
             price: parseInt(this.state.editPrice),
             productImage: this.state.editProductImage,
@@ -85,7 +85,7 @@ class Admin extends React.Component {
 
     renderProduct = () => {
         return this.state.productList.map(val => {
-            if (val.id === this.state.editID) {
+            if (val.id === this.state.editId) {
                 return (
                     <tr>
                         <td>{val.id}</td>

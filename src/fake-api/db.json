@@ -394,5 +394,51 @@
       "id": 22
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "userId": 0,
+      "productId": 4,
+      "price": 724000,
+      "productName": "Halo Infinite",
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/10/Halo-Infinite-Standard-Edition-250x250.jpg.webp",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "userId": 26,
+      "productId": 2,
+      "price": 345000,
+      "productName": "RDR 2",
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2020/06/PS4-Red-dead--250x250.png.webp",
+      "quantity": 2,
+      "id": 2
+    },
+    {
+      "userId": 26,
+      "productId": 3,
+      "price": 636000,
+      "productName": "Zelda",
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2018/12/Switch-The-Legend-of-Zelda-Breath-of-the-Wild-USEnglish-250x250.png.webp",
+      "quantity": 6,
+      "id": 3
+    },
+    {
+      "userId": 26,
+      "productId": 6,
+      "price": 649000,
+      "productName": "Demon Slayer",
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/06/PS4-Demon-Slayer-Kimetsu-no-Yaiba-The-Hinokami-Chronicles-250x250.png.webp",
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "userId": 26,
+      "productId": 5,
+      "price": 455000,
+      "productName": "Persona 5",
+      "productImage": "https://www.psegameshop.com/wp-content/uploads/2021/10/PS4-Persona-5-The-Royal-R3English-001-250x250.png.webp",
+      "quantity": 1,
+      "id": 5
+    }
+  ]
 }
