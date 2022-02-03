@@ -36,13 +36,13 @@ class App extends React.Component {
         <BrowserRouter>
         <MyNavbar fixed="top"/>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/register" element={<Register />} />
-          <Route path="/admin" element={<Admin />} />
-          <Route path="/cart" element={<Cart />} />
-          <Route path="/history" element={<History />} />
-          <Route path="/product-detail" element={<ProductDetail />} />
+            <Route element={<Login />} path="/login/*" />
+            <Route element={<Register />} path="/register" />
+            <Route element={<Admin />} path="/admin" />
+            <Route element={<Cart />} path="/cart" />
+            <Route element={<History />} path="/history" />
+            <Route element={<ProductDetail />} path="/product-detail/" />
+            <Route element={<Home />} path="/" />
         </Routes>
         </BrowserRouter>
       )
